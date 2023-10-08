@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miguelicosan
 - 👀 I’m interested in Artificial Intelligence and Big Data
 - 🌱 I’m currently learning Artificial Intelligence and Big Data Specialization Course
-- 💞️ I’m looking to collaborate on S python S
+- 💞️ I’m looking to collaborate on #Python
 - 📫 You can reach on [Email](mailto:miguelicosan@gmail.com)
 
 <!---
