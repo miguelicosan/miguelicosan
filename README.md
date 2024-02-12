@@ -15,7 +15,7 @@ Actualmente, me encuentro expandiendo mis horizontes en **Inteligencia Artificia
 
 ## Proyectos Destacados
 
-### [ChatMeApp: Aplicación de Chat con Análisis de Sentimiento](https://github.com/miguelicosan/app-chat)
+### [ChatFell.me: Aplicación de Chat con Análisis de Sentimiento](https://github.com/miguelicosan/app-chat)
 
 Una innovadora aplicación de mensajería que enriquece la interacción entre usuarios con análisis de sentimiento, añadiendo un contexto emocional adicional a las conversaciones.
 
@@ -47,7 +47,7 @@ I am currently broadening my horizons in **Artificial Intelligence and Big Data*
 
 ## Featured Projects
 
-### [ChatMeApp: Chat Application with Sentiment Analysis](https://github.com/miguelicosan/app-chat)
+### [ChatFell.me: Chat Application with Sentiment Analysis](https://github.com/miguelicosan/app-chat)
 
 An innovative messaging application that enriches user interaction with sentiment analysis, adding an extra layer of emotional context to conversations.
 
