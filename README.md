@@ -15,7 +15,7 @@ Actualmente, me encuentro expandiendo mis horizontes en **Inteligencia Artificia
 
 ## Proyectos Destacados
 
-### [ChatFeel.me: Aplicación de Chat con Análisis de Sentimiento](https://github.com/miguelicosan/app-chat)
+### [Feelchat.me: Aplicación de Chat con Análisis de Sentimiento](https://github.com/miguelicosan/app-chat)
 
 Una innovadora aplicación de mensajería que enriquece la interacción entre usuarios con análisis de sentimiento, añadiendo un contexto emocional adicional a las conversaciones.
 
@@ -30,6 +30,10 @@ Implementación del algoritmo A*, destacando mi habilidad para resolver problema
 ### [Proyectos en Python](https://github.com/miguelicosan/proyectos-python)
 
 Una colección diversa de proyectos que demuestran mi versatilidad con Python, desde juegos hasta aplicaciones de machine learning y herramientas de análisis de datos.
+
+### [Wikimedia Kafka Producer](https://github.com/miguelicosan/Wikimedia-kafka-producer)
+
+Un proyecto que captura cambios recientes de Wikimedia y los publica en un tema de Kafka, utilizando Docker para configurar y ejecutar el entorno de Kafka de forma eficiente.
 
 ## Contacto
 
@@ -47,7 +51,7 @@ I am currently broadening my horizons in **Artificial Intelligence and Big Data*
 
 ## Featured Projects
 
-### [ChatFeel.me: Chat Application with Sentiment Analysis](https://github.com/miguelicosan/app-chat)
+### [Feelchat.me: Chat Application with Sentiment Analysis](https://github.com/miguelicosan/app-chat)
 
 An innovative messaging application that enriches user interaction with sentiment analysis, adding an extra layer of emotional context to conversations.
 
@@ -62,6 +66,10 @@ Implementation of the A* algorithm, showcasing my ability to solve complex probl
 ### [Python Projects](https://github.com/miguelicosan/proyectos-python)
 
 A diverse collection of projects demonstrating my versatility with Python, from games to machine learning applications and data analysis tools.
+
+### [Wikimedia Kafka Producer](https://github.com/miguelicosan/Wikimedia-kafka-producer)
+
+A project that captures recent changes from Wikimedia and publishes them to a Kafka topic, using Docker to efficiently set up and run the Kafka environment.
 
 ## Contact
 
