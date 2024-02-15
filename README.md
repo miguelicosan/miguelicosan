@@ -23,6 +23,10 @@ Una innovadora aplicación de mensajería que enriquece la interacción entre us
 
 Un sistema de captura de datos para dispositivos IoT, que simula un flujo de datos en tiempo real, diseñado para entender el manejo de datos en escenarios de Big Data.
 
+### [Clasificación Automática de Imágenes de Mascotas con Deep Learning](https://github.com/miguelicosan/deep-learning-pet-classification)
+
+Este proyecto demuestra la aplicación de Deep Learning para la clasificación automática de imágenes de mascotas, utilizando técnicas avanzadas como redes neuronales convolucionales y aprendizaje por transferencia con la red InceptionV3. Se aborda desde la preparación de los datos hasta la evaluación del modelo, con el objetivo de distinguir entre perros y gatos, y potencialmente sus razas, de manera precisa.
+
 ### [Búsqueda Heurística (Informada)](https://github.com/miguelicosan/algoritmo-A-)
 
 Implementación del algoritmo A*, destacando mi habilidad para resolver problemas complejos y optimizar algoritmos de búsqueda.
@@ -58,6 +62,10 @@ An innovative messaging application that enriches user interaction with sentimen
 ### [IoT Data Capture Project with Docker Compose](https://github.com/miguelicosan/iot-streaming)
 
 A data capture system for IoT devices, simulating a real-time data flow, designed to understand data management in Big Data scenarios.
+
+### [Automated Pet Image Classification with Deep Learning](https://github.com/miguelicosan/deep-learning-pet-classification)
+
+This project showcases the use of Deep Learning for automated pet image classification, employing advanced techniques such as convolutional neural networks and transfer learning with the InceptionV3 network. It covers everything from data preparation to model evaluation, aiming to accurately distinguish between dogs and cats, and potentially their breeds.
 
 ### [Heuristic (Informed) Search](https://github.com/miguelicosan/algoritmo-A-)
 
