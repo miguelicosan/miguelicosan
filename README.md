@@ -19,7 +19,7 @@ Actualmente, me encuentro expandiendo mis horizontes en **Inteligencia Artificia
 
 Una innovadora aplicación de mensajería que enriquece la interacción entre usuarios con análisis de sentimiento, añadiendo un contexto emocional adicional a las conversaciones.
 
-### [Proyecto de Captura de Datos IoT con Docker Compose](https://github.com/miguelicosan/iot-streaming)
+### [Proyecto de Captura de Datos IoT con Docker Compose](https://github.com/miguelicosan/streaming-iot)
 
 Un sistema de captura de datos para dispositivos IoT, que simula un flujo de datos en tiempo real, diseñado para entender el manejo de datos en escenarios de Big Data.
 
@@ -59,7 +59,7 @@ I am currently broadening my horizons in **Artificial Intelligence and Big Data*
 
 An innovative messaging application that enriches user interaction with sentiment analysis, adding an extra layer of emotional context to conversations.
 
-### [IoT Data Capture Project with Docker Compose](https://github.com/miguelicosan/iot-streaming)
+### [IoT Data Capture Project with Docker Compose](https://github.com/miguelicosan/streaming-iot)
 
 A data capture system for IoT devices, simulating a real-time data flow, designed to understand data management in Big Data scenarios.
 
