@@ -61,7 +61,7 @@ Pequeños proyectos hechos en Python, que incluyen desde juegos simples hasta sc
 ## Contacto
 
 📫 Para colaboraciones, freelance o proyectos:  
-**miguel@ortegadev.com**
+**hola@ortegadev.com**
 
 ---
 
@@ -119,4 +119,4 @@ A collection of small Python projects covering automation, data analysis, games,
 ## Contact
 
 📫 For freelance, collaborations or hiring:  
-**miguel@ortegadev.com**
+**hola@ortegadev.com**
